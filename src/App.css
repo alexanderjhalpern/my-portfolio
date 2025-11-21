@@ -64,7 +64,7 @@ body{
 .btn.small{ padding:8px 10px; font-size:14px }
 .btn.primary{ background:linear-gradient(90deg,var(--primary), #2b8cff); color:white; box-shadow:0 6px 18px rgba(11,92,255,0.14) }
 .btn.outline{ border:1px solid rgba(0,0,0,0.08); background:transparent; color:var(--text) }
-.btn:hover{ transform:translateY(-2px) }
+.btn:hover{ transform:translateY(-1px) }
 
 /* sections */
 .section{ padding:60px 0; opacity:0; transform:translateY(20px); transition:all .6s cubic-bezier(.2,.9,.3,1); }
