@@ -1,0 +1,31 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 24px;
+  position: sticky;
+  top: 0;
+  background: linear-gradient(180deg, rgba(255,255,255,0.8), rgba(255,255,255,0.4));
+  backdrop-filter: blur(6px);
+  z-index: 50;
+}
+
+[data-theme="dark"] .nav {
+  background: linear-gradient(180deg, rgba(10,18,30,0.85), rgba(10,18,30,0.6));
+}
+
+.nav a {
+  text-decoration: none;
+  color: var(--muted);
+  margin-left: 16px;
+}
+
+.nav a:hover {
+  color: var(--text);
+}
+
+.logo {
+  font-weight: 700;
+  color: var(--primary);
+  font-size: 18px;
+}
