@@ -12,7 +12,7 @@ export default function Hero() {
   return (
     <header id="hero" className="hero container">
       <div className="hero-inner">
-        <h1 className="hero-title">Hi — I’m Alexander.</h1>
+        <h1 className="hero-title">Hi I'm Alexander, but you can call me Alex.</h1>
         <p className="hero-sub">
           <span>{text}</span>
           <span className="cursor" style={{ opacity: blink ? 1 : 0 }}>|</span>
@@ -21,7 +21,7 @@ export default function Hero() {
         <div className="hero-cta">
           <a
             className="btn outline"
-            href="2025-AlexanderHalpernResume.pdf"
+            href="2026-AlexanderHalpernResume.pdf"
             target="_blank"
             rel="noreferrer"
           >

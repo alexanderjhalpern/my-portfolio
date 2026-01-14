@@ -9,14 +9,14 @@ export default function About() {
       <div className="container">
         <h2>About Me</h2>
         <p>
-          I'm a Senior Software Engineer with over 10 years of experience building
+          I am a Senior Software Engineer with over 10 years of experience building
           and maintaining scalable enterprise applications using Java, C#, SQL,
           and JavaScript frameworks. Skilled in designing modular, highperformance
           backends and intuitive frontends across web and
-          financial platforms. Experienced in Agile environments with strong
-          focus on clean architecture, code quality, and mentoring. Passionate
-          about optimizing performance, practices, and delivering software
-          that exceeds business goals.
+          financial platforms. Experienced in Agile/Scrum environments with
+          strong focus on clean architecture, code quality, and mentoring.
+          Passionate about optimizing performance, practices, and delivering
+          software that exceeds business goals.
         </p>
       </div>
     </section>

@@ -2,8 +2,8 @@ import React from "react";
 import useOnScreen from "../hooks/useOnScreen";
 
 const skills = [
-  "Java", "C#", "JavaScript", "jQuery", "HTML", "CSS", "Spring Boot", ".NET Core", "SQL", "REST API Design",
-  "Microservices", "Visual Studio", "IntelliJ", "Azure DevOps", "GitHub", "GitLab",
+  "Java", "C#", "JavaScript", "React", "jQuery", "HTML", "CSS", "Spring Boot", ".NET Core", "SQL", "REST API Design",
+  "Microservices", "Visual Studio", "IntelliJ", "AWS", "Azure DevOps", "GitHub", "GitLab",
   "Bitbucket", "Jira","Eclipse", "Microsoft SQL Server", "Oracle SQL Developer",
   "CI/CD pipelines", "Git-based version control"
 ];
